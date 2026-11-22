@@ -7,7 +7,7 @@
 ---
 
 ## Part 1 — StelBit v0.3 (Working Baseline · Unpolished UI)
-*(Drag & drop your 30–45 sec v0.3 screen recording `.mp4` here)*
+
 
 - **What works today:** Functional local device connectivity and core mesh experimentation across constrained Windows and Android nodes (`internetChunk`, `mediatorChunk`, `employerChunk`).
 - **Why it looks raw:** Built strictly to validate cross-device communication, multi-carrier routing, and local orchestration before investing in frontend polish.
