@@ -15,7 +15,7 @@
 ---
 
 ## Part 2 — StelBit v0.4 (Under Construction · UI & Control Plane Overhaul)
-*(Drag & drop `Homei_3.png` here)*
+<img width="1360" height="768" alt="Homei" src="https://github.com/user-attachments/assets/ded1ac32-5a4c-4b48-8d4a-95eb1ebdf2b0" />
 
 StelBit v0.4 restructures the raw v0.3 foundation into a pitch-black OLED control plane designed for live cross-device orchestration:
 - **Live Storage Sharding (`sharding` toggle):** Exposes live-accessible shared storage across paired local devices.
@@ -26,7 +26,6 @@ StelBit v0.4 restructures the raw v0.3 foundation into a pitch-black OLED contro
 ---
 
 ## Integrated Vision — What StelBit Unlocks (Layer 2 · Roadmap & Research)
-*(Optional: drag & drop your vision/architecture diagram here)*
 
 StelBit is not meant to remain a standalone local utility—it is the hardware-level substrate for four integrated modules:
 1. **System-Level Agent Backbone:** Gives an autonomous software agent native visibility, task dispatch, and regulation across every connected device.
