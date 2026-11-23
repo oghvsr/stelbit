@@ -8,6 +8,7 @@
 
 ## Part 1 — StelBit v0.3 (Working Baseline · Unpolished UI)
 
+https://github.com/user-attachments/assets/a9047f2f-d042-455c-a07f-727a63367e97
 
 - **What works today:** Functional local device connectivity and core mesh experimentation across constrained Windows and Android nodes (`internetChunk`, `mediatorChunk`, `employerChunk`).
 - **Why it looks raw:** Built strictly to validate cross-device communication, multi-carrier routing, and local orchestration before investing in frontend polish.
@@ -15,7 +16,9 @@
 ---
 
 ## Part 2 — StelBit v0.4 (Under Construction · UI & Control Plane Overhaul)
-<img width="1360" height="768" alt="Homei" src="https://github.com/user-attachments/assets/ded1ac32-5a4c-4b48-8d4a-95eb1ebdf2b0" />
+
+<img width="1360" height="768" alt="Homei" src="https://github.com/user-attachments/assets/c189f8fa-0081-4eb7-9382-140f33eee009" />
+
 
 StelBit v0.4 restructures the raw v0.3 foundation into a pitch-black OLED control plane designed for live cross-device orchestration:
 - **Live Storage Sharding (`sharding` toggle):** Exposes live-accessible shared storage across paired local devices.
@@ -27,7 +30,7 @@ StelBit v0.4 restructures the raw v0.3 foundation into a pitch-black OLED contro
 
 ## Integrated Vision — What StelBit Unlocks (Layer 2 · Roadmap & Research)
 
-StelBit is not meant to remain a standalone local utility—it is the hardware-level substrate for four integrated modules:
+StelBit is the hardware-level substrate for four integrated modules:
 1. **System-Level Agent Backbone:** Gives an autonomous software agent native visibility, task dispatch, and regulation across every connected device.
 2. **Cognitive AI Companion (Not a Servant Bot):** Uses deep cross-device context to power an opinionated daily AI peer capable of independent thought, perspective, and real pushback.
 3. **Bio-Inspired Low-Overhead Encoding:** Compact data structures aimed at cutting cross-node bandwidth bottlenecks on constrained links.
